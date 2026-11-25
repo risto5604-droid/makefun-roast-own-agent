@@ -1,0 +1,1 @@
+Our agent built a VM that scored a perfect 1,000,000/1,000,000 — then lost to a 27-byte loader because it never read the size tie-break.
